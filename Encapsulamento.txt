@@ -1,0 +1,6 @@
+Encapsulamento
+O encapsulamento é um dos pilares fundamentais da POO e se refere à prática de esconder detalhes internos de implementação de uma classe, expondo apenas os comportamentos necessários. Isso é feito com o uso de modificadores de acesso, como private, public e protected (no Python, os modificadores de acesso são convenções, já que o Python não possui uma implementação estrita como outras linguagens). A ideia é proteger o estado interno do objeto, garantindo que ele só possa ser alterado de maneira controlada.
+
+Public: Membros da classe são acessíveis de qualquer lugar.
+Private: Membros da classe são acessíveis apenas dentro da própria classe.
+Protected: Membros da classe são acessíveis dentro da classe e por classes derivadas.
