@@ -1,0 +1,19 @@
+class Carro:
+    def __init__(self, modelo):
+        self.modelo = modelo
+
+    def acelerar(self):
+        return f'O {self.modelo} está acelerando.'
+
+class Motorista:
+    def __init__(self, nome):
+        self.nome = nome
+
+    def dirigir(self, carro):
+        return f'{self.nome} está dirigindo o carro: {carro.modelo}. {carro.acelerar()}'
+
+# Criando objetos e interagindo entre eles
+carro = Carro('Fusca')
+motorista = Motorista('Carlos')
+
+print(motorista.dirigir(carro))
