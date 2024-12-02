@@ -1,0 +1,4 @@
+ Abstração
+Abstração é o processo de esconder os detalhes complexos e exibir apenas a interface necessária. Em Python, isso pode ser feito com classes abstratas e interfaces.
+
+Classe Abstrata: Uma classe que não pode ser instanciada diretamente e pode ter métodos abstratos, ou seja, métodos que não têm implementação na classe base, mas devem ser implementados nas classes filhas.
