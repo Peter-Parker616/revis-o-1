@@ -1,0 +1,2 @@
+Herança
+A herança é um mecanismo que permite que uma classe herde atributos e métodos de outra. Isso promove a reutilização de código e facilita a criação de classes especializadas a partir de uma classe base.
