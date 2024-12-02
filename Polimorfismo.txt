@@ -1,0 +1,5 @@
+ Polimorfismo
+Polimorfismo é a capacidade de uma classe ter métodos com o mesmo nome, mas com comportamentos diferentes. Isso pode ser feito por meio de sobrecarga ou sobrescrita de métodos.
+
+Sobrecarga de Métodos: Embora Python não suporte sobrecarga de métodos diretamente, o conceito pode ser implementado usando argumentos padrão ou variáveis.
+Sobrescrita de Métodos: Quando um método de uma classe filha substitui um método da classe pai.
