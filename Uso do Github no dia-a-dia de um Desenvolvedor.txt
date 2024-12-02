@@ -1,0 +1,6 @@
+3. Uso do Github no dia-a-dia de um Desenvolvedor
+O GitHub é uma plataforma essencial para desenvolvedores. Ele facilita o controle de versões de código, a colaboração em projetos e a integração de ferramentas. No dia-a-dia de um desenvolvedor, ele é usado para:
+
+Controle de versões: Com comandos Git como git commit, git push, git pull, é possível registrar alterações e compartilhar com a equipe.
+Colaboração: Através de Pull Requests, revisões de código podem ser feitas por outros desenvolvedores.
+Gerenciamento de projetos: Usando Issues e Projetos no GitHub, equipes podem organizar tarefas e acompanhar o progresso.
