@@ -1,0 +1,2 @@
+2. Interação entre Objetos
+Objetos podem interagir entre si chamando métodos uns dos outros, passando informações ou alterando o estado de outros objetos.
